@@ -16,5 +16,5 @@ const TaskForm = async () => {
     </form>
   );
 }
- 
+
 export default TaskForm;
